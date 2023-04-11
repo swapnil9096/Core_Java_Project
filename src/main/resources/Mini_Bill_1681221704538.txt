@@ -1,0 +1,12 @@
+Product Name    Rate    Items   Total  
+---------------------------------------------
+burger           80      4       320
+pepsi            30      2       60
+fries            50      4       200
+catchup          10      42      420
+---------------------------------------------
+Congratulations you won 200 discount!!! 
+---------------------------------------------
+Total amount : 800
+
+                Visit Again...!!
