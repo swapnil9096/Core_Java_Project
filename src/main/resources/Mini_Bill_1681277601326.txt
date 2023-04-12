@@ -1,0 +1,9 @@
+Product Name    Rate    Items   Total  
+---------------------------------------------
+burger           80      7       560
+---------------------------------------------
+Congratulations you won 56 discount!!! 
+---------------------------------------------
+Total Amount To Paid : 504
+
+              Visit Again...!!

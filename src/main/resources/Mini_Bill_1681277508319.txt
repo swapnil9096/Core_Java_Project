@@ -1,11 +1,12 @@
 Product Name    Rate    Items   Total  
 ---------------------------------------------
-burger           80      2       160
-pepsi            30      2       60
-fries            50      2       100
+burger           80      5       400
+pepsi            30      5       150
+fries            50      5       250
 catchup          10      5       50
 ---------------------------------------------
+Congratulations you won 85 discount!!! 
 ---------------------------------------------
-Total amount : 370
+Total Amount To Paid : 765
 
-                Visit Again...!!
+              Visit Again...!!
