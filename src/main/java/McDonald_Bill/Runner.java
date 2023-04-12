@@ -1,12 +1,13 @@
 package McDonald_Bill;
-import java.io.IOException;
 
-public class Runner extends Utilities{
+public class Runner{
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
 
-		selectProducts();
-		createBill(productList);
+		Utilities ut = new Utilities();
+		
+		ut.selectProducts();
+		ut.createBill(ut.productList);
 		
 	}
 
